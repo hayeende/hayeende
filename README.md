@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sadeeq Hayeende Lawal
-- 👀 I’m interested in a data analytics role.
+- 👀 I’m interested in a data analyst role.
 - 🌱 I’m currently working as a data analyst for Express Pharmacy Nigeria Limited.
 - 💞️ I’m looking for a data analyst role in finance, business, or retail.
 - 📫 How to reach me on gmail: lawalsadeeq91@gmail.com or via twitter: @shayeende...
